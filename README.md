@@ -1,4 +1,4 @@
-# IBM Quantum Challenge
+# IBM Quantum Spring Challenge 2023
 
 Welcome to the IBM Quantum Challenge! We are thrilled that you have chosen to participate in this unique experience. In this challenge, you will have the opportunity to learn and explore quantum computing using the resources provided by IBM.
 
